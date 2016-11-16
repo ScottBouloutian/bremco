@@ -7,8 +7,8 @@ description: |
 owner: Bremco Associates LLC
 first_published: 2016
 email: boulet109@comcast.net
-baseurl: ""
-url: "http://yourdomain.com"
+baseurl: /bremco
+url: https://scottbouloutian.github.io
 social:
   linkedin-square: https://linkedin.com/in/markbouloutian
   email: mailto:boulet109@comcast.net
